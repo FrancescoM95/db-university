@@ -1,5 +1,7 @@
 # nome repo: `db-university`
 
+29/02/2024
+
 Modellizzare la struttura di un database per memorizzare tutti i dati riguardanti una università:
 
 - sono presenti diversi `Dipartimenti` (es.: Lettere e Filosofia, Matematica, Ingegneria ecc.);
@@ -17,7 +19,9 @@ Esportare il diagramma in jpg e caricarlo nella repo.
 
 ---
 
-# Esercizio di oggi: **DB University - Queries**
+## Esercizio di oggi: **DB University - Queries**
+
+01/03/2024
 
 nome repo: `db-university` (stessa di ieri)
 
@@ -27,3 +31,15 @@ nome repo: `db-university` (stessa di ieri)
 
     - Dopo aver testato le vostre query con phpMyAdmin, riportatele in un file .sql e caricatelo nella vostra repo.
     - Sarebbe consigliabile effettuare un push ad ogni query completata.
+
+---
+
+## Esercizio di oggi: **DB University - Join**
+
+04/03/2024
+
+nome repo: `db-university`
+
+1. Dopo aver creato un nuovo database nel vostro phpMyAdmin e aver importato lo schema allegato, eseguite le query del file allegato.
+
+Le modalità di consegna sono le stesse di Venerdì! Buon divertimento!
